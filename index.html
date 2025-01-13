@@ -44,7 +44,7 @@
 
   <section id="contact">
     <h2>Contact</h2>
-    <p>Email: marilyn.tech@example.com</p>
+    <p>Email: marilyn_stephens@hotmail.com</p>
     <p>GitHub: <a href="https://github.com/Marilyn2015">yourusername</a></p>
     <p>LinkedIn: <a href="https://www.linkedin.com/in/marilynstephens">yourusername</a></p>
   </section>
