@@ -4,7 +4,7 @@ Welcome to my personal portfolio, where tech innovation meets creativity and res
 
 ## About Me
 
-Hi, I’m Marilyn! A determined and self-taught tech enthusiast, I transitioned from a background in sales and nonprofit leadership into the exciting realm of cybersecurity. My professional experience includes working as a Computer Systems Analyst for the Department of Defense, where I’ve handled secure data transfer, encryption, and cutting-edge tools like ICAT, PCDS, and ANGEL. I thrive on solving complex problems and continuously expanding my expertise, recently earning my CISA Plus certification.
+Hi, I’m Marilyn! A determined and self-taught tech enthusiast, I transitioned from a background in sales and nonprofit leadership into the exciting realm of cybersecurity. My professional experience includes working as a Computer Systems Analyst for the Department of Defense, where I’ve handled secure data transfer, encryption, and tools like ICADS, PCDS, and ANGEL. I thrive on solving complex problems and continuously expanding my expertise, recently earning my CYSA+ certification.
 
 When I’m not working, I’m exploring my other passions, like stargazing, watching science documentaries, and enjoying beach days with my daughter, Phoenix. My philosophy is simple: every challenge is an opportunity to grow, and I bring that mindset to everything I do.
 
