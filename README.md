@@ -33,7 +33,7 @@
     <div class="project">
       <h3>Basic Honeypot Project</h3>
       <p>A Python-based honeypot designed to attract and log unauthorized access attempts. This project highlights my understanding of threat detection and analysis.</p>
-      <a href="https://github.com/Marilyn2015/honeypot">View on GitHub</a>
+      <a href="https://github.com/Marilyn2015/honeypot-">View on GitHub</a>
     </div>
     
   </section>
